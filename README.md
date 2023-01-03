@@ -10,8 +10,16 @@ As for the backend, I work with ASP.NET Core WebAPIs following Clean Architectur
 I love to code, create things, solve problems and take on challenges.
 <!--END_SECTION:activity-->
 
-
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[![Connect on Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[![Connect on WhatsApp](https://img.shields.io/badge/--whatsapp?label=WhatsApp&logo=WhatsApp&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[![Connect on Instagram](https://img.shields.io/badge/--whatsapp?label=Instagram&logo=Instagram&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[![Connect on MailTo](https://img.shields.io/badge/--mail?label=Gmail&logo=mailto&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Farhadi-Morteza)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
