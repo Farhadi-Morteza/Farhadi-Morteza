@@ -17,7 +17,7 @@ I love to code, create things, solve problems and take on challenges.
 [![Connect on MailTo](https://img.shields.io/badge/--mail?label=Gmail&logo=mailto&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/morteza-farhadi-63475891)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morteza-farhadi-63475891)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
