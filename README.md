@@ -16,23 +16,23 @@ I love to code, create things, solve problems and take on challenges.
 [![Connect on WhatsApp](https://img.shields.io/badge/--whatsapp?label=WhatsApp&logo=WhatsApp&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 [![Connect on Instagram](https://img.shields.io/badge/--whatsapp?label=Instagram&logo=Instagram&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 [![Connect on MailTo](https://img.shields.io/badge/--mail?label=Gmail&logo=mailto&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0989121111111)
 -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morteza-farhadi-63475891)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Google Chrome](https://img.shields.io/badge/Farhadi.id%20.ir-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](http://www.farhadi.id.ir/)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FarhadiMorteza/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/FarhadiMorteza/)
 
 ---
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+- 🌱  I’m currently working and growing my skillset in ASP.Net Core ReazorePages And Blazor WASM.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🥅 2023 Goals: Learn more about Blockchains and Solidity
+- 💬 Ask me about Blazor WASM and MudBlazor
 
 ---
 
